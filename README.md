@@ -28,7 +28,6 @@ $ poetry run yaml2devops
 ```
 
 ## publish
-
-`poetry publish` を実行。  
+`poetry build` 後、`poetry publish` を実行。  
 `poetry publish` したら user と password の確認が求められます。  
 https://cocoatomo.github.io/poetry-ja/repositories/
