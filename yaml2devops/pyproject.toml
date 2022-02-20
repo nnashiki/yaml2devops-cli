@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "yaml2devops"
-version = "0.1.1"
+version = "0.2.0"
 description = "yaml2devops-cli は yaml に記載したテストスイートの実行タスクを azure devops に起票できるツールです"
 authors = ["Niten Nashiki <n.nashiki.work@gmail.com>"]
 readme = "README.md"
